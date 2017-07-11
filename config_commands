@@ -8,3 +8,9 @@ npm run build
 
 # babel install:
 npm install babel-core babel-loader webpack-dev-server babel-preset-es2015 babel-polyfill --save-dev
+
+# es7 update:
+npm install babel-preset-es2016 --save-dev
+npm install babel-preset-es2017 --save-dev
+
+# add "es2016", "es2017" to package.json babel presets
